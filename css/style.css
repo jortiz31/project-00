@@ -1,0 +1,53 @@
+body {
+	font-family: 'Marvel', sans-serif;
+	font-size: 1.2em;
+	background: #2f558e url(css/img/bg.png) repeat 0 0;
+  background-size: 400px auto;
+}
+
+h1,
+p {
+	text-align: center;
+	color: #fff;
+	text-shadow: 4px 4px 5px #000;
+ }
+
+.navbar {
+	border-radius: 5px;
+	box-shadow: 4px 4px 6px #2c3e50;
+}
+
+.glyph {
+		font-size: 6em;
+		text-shadow: 4px 4px 5px #000;
+}
+
+a .navbar-brand {
+	font-size: 2.7em;
+}
+
+
+#d {
+	border-radius: 15px;
+	position:absolute;
+	color: #fff;
+	background-color: transparent;
+}
+
+#c {
+	border-radius: 15px;
+	position:absolute;
+	color: #2ecc71;
+	background-color: #transparent;
+}
+
+.lane2 {
+	margin-top: 100px;
+	background-color: #000;
+}
+
+.instructions {
+	margin-top: 200px;
+	text-align: center;
+	font-size: 2em;
+}
