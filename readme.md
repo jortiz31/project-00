@@ -18,7 +18,7 @@ The purpose of this game is to have two users dual in button mashing as they rac
 
 ## Planned Features
 
--I plan to clean the code, as it was very difficult for me to implement OOP to make the application work as I wanted it to, I would have rather coded this project using standard jQuery and Javascript practices. As my OOP skills arent where I want them to be (as of yet). Enjoy the game!
+-I plan to clean the code, as it was very difficult for me to implement OOP to make the application work as I wanted it to, I would have rather coded this project using standard jQuery and Javascript practices. As my OOP skills aren't where I want them to be (as of yet). Enjoy the game!
 
 ---
 
